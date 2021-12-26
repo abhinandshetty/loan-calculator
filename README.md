@@ -1,8 +1,7 @@
 The preview of the app can be checked here [**Loan Calculator App**](https://loan-calculator-abhinandshetty.vercel.app/loan-calculator)
 
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
+The project is created using Nextjs, Typescript, Tailwind and Highcharts.
 ## Getting Started
 
 1. Install dependencies:
