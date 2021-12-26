@@ -41,7 +41,7 @@ const SliderInputSection: React.FC<ISliderInputSection> = ({
         </div>
       </div>
       <div className="my-5">
-        <Slider min={100000} max={50000000} value={value} onChange={onChange} />
+        <Slider min={min} max={max} value={value} onChange={onChange} />
       </div>
     </div>
   );
