@@ -21,6 +21,7 @@ const Loan: React.FC = () => {
       style: 'currency',
       currency: 'INR',
       maximumFractionDigits: 0,
+      minimumFractionDigits: 0,
     }).format(amount);
   };
 
